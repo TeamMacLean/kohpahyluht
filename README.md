@@ -1,9 +1,5 @@
 # Kohpahyluht
 
-## Demo
-* `dronekit-sitl copter`
-* open qgroundcontrol
-* connect to simulator
-* plan route
-* start this script
-* start navigation
+## Setup
+WIP
+http://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html
